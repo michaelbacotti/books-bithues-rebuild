@@ -2,7 +2,7 @@
   "name": "Bithues",
   "short_name": "Bithues",
   "description": "Book reviews, articles, and stories for curious minds",
-  "start_url": "https://www.bithues.com/",
+  "start_url": "https://books.bithues.com/",
   "display": "standalone",
   "background_color": "#FAF8F5",
   "theme_color": "#8b6914",
